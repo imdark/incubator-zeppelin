@@ -96,6 +96,7 @@
     <module>hbase</module>
     <module>phoenix</module>
     <module>postgresql</module>
+    <module>presto</module>
     <module>jdbc</module>
     <module>tajo</module>
     <module>flink</module>
