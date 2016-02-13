@@ -457,6 +457,7 @@ public class ZeppelinConfiguration extends XMLConfiguration {
         + "org.apache.zeppelin.geode.GeodeOqlInterpreter,"
         + "org.apache.zeppelin.kylin.KylinInterpreter,"
         + "org.apache.zeppelin.elasticsearch.ElasticsearchInterpreter,"
+        + "org.apache.zeppelin.presto.PrestoInterpreter,"
         + "org.apache.zeppelin.scalding.ScaldingInterpreter,"
         + "org.apache.zeppelin.jdbc.JDBCInterpreter,"
         + "org.apache.zeppelin.hbase.HbaseInterpreter"),
